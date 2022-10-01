@@ -2,6 +2,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+h1 {
+    color: #c3a38e;
+}
+
+
 
 body {
     display : flex;
@@ -13,6 +18,7 @@ body {
     background-size: cover;
     text-align:center;
     overflow: hidden;
+
 
 }
 .time {
